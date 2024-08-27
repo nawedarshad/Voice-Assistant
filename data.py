@@ -91,4 +91,20 @@ data = {
     "play a piece of music"
 ],
 
+    "math_phrases" : [
+    "add",
+    "subtract",
+    "multiply",
+    "divide",
+    "calculate",
+    "sum",
+    "difference",
+    "product",
+    "quotient",
+    "plus",
+    "minus",
+    "times",
+    "divided by",
+],
+
 }
