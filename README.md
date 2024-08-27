@@ -111,7 +111,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) - Python library for performing speech recognition.
 - [pyttsx3](https://pypi.org/project/pyttsx3/) - Text-to-speech conversion library in Python.
 - [Flask](https://pypi.org/project/Flask/) - Micro web framework written in Python.
-- [PyAutoGUI](https://pypi.org/project/PyAutoGUI/) - Cross-platform GUI automation Python module.
 - [Pywhatkit](https://pypi.org/project/pywhatkit/) - Simple and powerful library for sending WhatsApp messages, playing YouTube videos, and more.
 
 ## Contact
