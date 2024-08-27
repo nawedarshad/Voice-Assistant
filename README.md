@@ -1,8 +1,3 @@
-# Voice-Assistant
-
-Here’s a complete `README.md` file for your Voice Assistant project based on the information you've provided:
-
-```markdown
 # Voice Assistant
 
 A Python-based voice assistant that can perform various tasks such as opening applications, performing mathematical operations, browsing websites, and more through voice commands.
@@ -19,8 +14,8 @@ A Python-based voice assistant that can perform various tasks such as opening ap
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
-   cd voice-assistant
+   git clone https://github.com/nawedarshad/Voice-Assistant.git
+   cd Voice-Assistant
    ```
 
 2. **Install Dependencies:**
@@ -121,11 +116,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or issues, feel free to contact the project maintainer at [your.email@example.com].
+For any inquiries or issues, feel free to contact the project maintainer at [nawedarshad25@gmail.com].
 
 ```
 
 ### Notes:
-1. **Replace Placeholder Text**: Be sure to replace `https://github.com/yourusername/voice-assistant.git` with the actual URL of your GitHub repository, and update the email and other placeholder information with your details.
+1. **Replace Placeholder Text**: Be sure to replace `https://github.com/nawedarshad/Voice-Assistant.git` with the actual URL of your GitHub repository, and update the email and other placeholder information with your details.
 2. **License**: Make sure to include a `LICENSE` file in your repository if you specify a license in your README.
 3. **Optional Sections**: Depending on your project, you might want to add sections like "Known Issues," "Future Enhancements," or "Troubleshooting."
