@@ -22,6 +22,7 @@ data = {
     "see ya",
     "bye-bye",
     "good night",
+    "stop",
 ],
     "open_browser_phrases": [
     "open the browser",
@@ -66,6 +67,28 @@ data = {
     "apple",
     "microsoft",
     "cnn"
+],
+    "play_song_phrases" : [
+    "play a song",
+    "start the music",
+    "play some music",
+    "begin the song",
+    "play a track",
+    "start a tune",
+    "put on a song",
+    "play a melody",
+    "launch the music",
+    "turn on the music",
+    "play the track",
+    "spin a song",
+    "queue up a song",
+    "stream a song",
+    "play that song",
+    "kick off the music",
+    "put on some tunes",
+    "start playing music",
+    "play a musical track",
+    "play a piece of music"
 ],
 
 }
