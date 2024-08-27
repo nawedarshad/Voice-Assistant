@@ -23,7 +23,7 @@ A Python-based voice assistant that can perform various tasks such as opening ap
    Make sure you have Python 3.x installed. Then, install the required Python libraries using the `requirements.txt` file:
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 3. **Set Up Speech Recognition:**
